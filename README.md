@@ -1,1 +1,1 @@
-# odin-landing-page
+For this project, I will be creating an entire web page that consists of what I've learned so far from the Odin Project. This will be updated.
