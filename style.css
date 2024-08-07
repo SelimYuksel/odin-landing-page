@@ -20,12 +20,12 @@ button,
     color: #F9FAF8;
 }
 
-.header-main-text {
+.hero-main-text {
     font-size: 48px;
     font-weight: bolder;
 }
 
-.header-sub-text, 
+.hero-sub-text, 
 .header-links,
 a {
     font-size: 18px;
